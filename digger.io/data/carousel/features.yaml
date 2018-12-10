@@ -1,0 +1,10 @@
+weight: 2
+title: "Trouvez le Vinyle qui vous convient"
+description: >
+  <ul class="list-style-none">
+     <li>Un pays Une année</li>
+     <li>Découverte des genres</li>
+     <li>All we need is acid</li>
+     <li>And more to come...</li>
+   </ul>
+image: "img/carousel/template-mac.png"
